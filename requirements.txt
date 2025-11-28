@@ -1,0 +1,3 @@
+# Colocar tudo oq precisa ser instalado para o meu projeto funcionar
+ttkbootstrap 
+mysql-connector-python

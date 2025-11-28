@@ -1,0 +1,36 @@
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.env/
+.env*/
+.venv/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Configs sensíveis
+*.env
+*.ini
+*.cfg
+
+# Banco de dados local
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
